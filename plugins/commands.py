@@ -5,7 +5,7 @@ import time
 import shutil
 import heroku3
 import requests
-
+from config import ADMINS
 from pyrogram import filters
 from pyrogram import Client as trojanz
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
