@@ -44,6 +44,9 @@ class Config(object):
     DELETE_ALL_CMD = os.environ.get("DELETE_ALL_CMDD", "delall")
     CONNECT_COMMAND = os.environ.get("CONNECT_COMMANDD", "connect")
     DISCONNECT_COMMAND = os.environ.get("DISCONNECT_COMMANDD", "disconnect")
+    
+    #broadcast
+    SESSION_NAME = os.environ.get("SESSION_NAME", ":memory:")
 
 
     # To record start time of bot
