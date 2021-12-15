@@ -10,4 +10,8 @@ Unlimited Filter + Broadcast
 
 × Supports multiple PM connections
 
-× And all other features of a Filter Bot 😋
+× And all other features of a Filter Bot
+
+× And Support The Best Broadcast
+
+##MADE BY @JOEL_NOOB & @BLACK_DEVIL_TG
